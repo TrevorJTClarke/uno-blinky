@@ -1,0 +1,9 @@
+{
+  "name": "uno-blinky",
+  "description": "Exploring Arduino Uno using johnny-five",
+  "version": "0.0.1",
+  "keywords": ["arduino","uno","electronics"],
+  "author": {
+   "name":"@trevorjtclarke"
+  }
+}
