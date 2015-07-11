@@ -7,7 +7,7 @@ myBoard.on("ready", function() {
 
   myLed = new five.Led(13)
 
-  myLed.strobe( 1000 );
+  // myLed.strobe( 1000 );
 
   // make myLED available as "led" in REPL
 
